@@ -1,6 +1,6 @@
 # VTK-js
-Link -> https://a-shazli.github.io/VTK-JS/
-DICOM Viewer for volume and surface rendering where you can:
+<p>Link -> https://a-shazli.github.io/VTK-JS/</p>
+<p>DICOM Viewer for volume and surface rendering where you can:</p>
 <ul>
   <li>Read a dataset</li>
    <li>Apply marching cubes algorithim</li>
