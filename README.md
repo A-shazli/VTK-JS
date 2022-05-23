@@ -1,5 +1,5 @@
 # VTK-js
-<p>Link -> https://a-shazli.github.io/VTK-JS/</p>
+<p>Link -> https://a-shazli.github.io/VTK-JS/ <b>PLEASE RUN ON FIREFOX FOR BEST RESULTS</b></p>
 <p>DICOM Viewer for volume and surface rendering where you can:</p>
 <ul>
   <li>Read a dataset</li>
